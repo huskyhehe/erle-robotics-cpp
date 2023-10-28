@@ -1,8 +1,3 @@
-/*----------------------------------------------------------------
-Copyright (c) 2022 Author: Jagadeesh Vasudevamurthy
-Filename: slist1.cpp
------------------------------------------------------------------*/
-
 #include "slist1.h"
 //NOTHING CAN BE ADDED HERE
 

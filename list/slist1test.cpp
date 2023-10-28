@@ -1,10 +1,4 @@
 /*----------------------------------------------------------------
-Copyright (c) 2022 Author: Jagadeesh Vasudevamurthy
-Filename: slist1test.cpp
-compile: g++ slist1.cpp slist1test.cpp
------------------------------------------------------------------*/
-
-/*----------------------------------------------------------------
 																		NOTHING CAN BE CHANGED BELOW
 											No grade will be given if U change anything below
 -----------------------------------------------------------------*/

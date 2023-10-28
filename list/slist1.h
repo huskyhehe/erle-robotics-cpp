@@ -1,7 +1,3 @@
-/*----------------------------------------------------------------
-Copyright (c) 2022 Author: Jagadeesh Vasudevamurthy
-Filename: slist1.h
------------------------------------------------------------------*/
 #pragma once
 
 #include "../util/util.h" //NOTHING CAN BE ADDED
